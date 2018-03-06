@@ -2,12 +2,9 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-// body {
-//    background-image: url("/background.jpg");
-//    background-color: #cccccc;
-// }
 
 html { 
+  background: rgba(70, 72, 82, 0.3);
   background: url(/background.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
